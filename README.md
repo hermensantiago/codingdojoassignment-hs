@@ -1,0 +1,2 @@
+# codingdojoassignment-hs
+project assignments
